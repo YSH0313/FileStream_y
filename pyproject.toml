@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "FileStream_y"
+version = "0.1.1"
+description = "Resolve file suffix"
+authors = ["yuanshaohang <ysh17600824539@163.com>"]
+license = "n"
+readme = "README.md"
+repository = "https://github.com/python-poetry/poetry"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
