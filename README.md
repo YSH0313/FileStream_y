@@ -4,7 +4,7 @@
     pip install filestream-y
 
 ### Use
-    from filestream_y import File_Type
-    stream = File_Type.stream_type(<file_bytes>)
+    from filestream_y import stream_type
+    stream = stream_type(<file_bytes>)
     print(stream)
 
