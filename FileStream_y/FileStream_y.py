@@ -7,7 +7,7 @@
 import os
 import struct
 import base64
-from .filetype_map import type_dict, content_type_map
+from filetype_map import type_dict, content_type_map
 
 
 def typeList():

@@ -125,6 +125,7 @@ content_type_map = {
     'font/woff2': 'woff2',
     'application/xhtml+xml': 'xhtml',
     'application/vnd.ms-excel': 'xls',
+    'application/vnd.ms-excel;charset=UTF-8': 'xls',
     'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet': 'xlsx',
     'application/xml': 'xml',
     'application/vnd.mozilla.xul+xml': 'xul',
